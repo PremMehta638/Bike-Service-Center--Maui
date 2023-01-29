@@ -1,0 +1,133 @@
+﻿
+
+@page "/dashboard"
+@inject IJSRuntime js
+
+
+<div class="mb-3 d-flex gap-2">
+    <h3><span class="oi oi-menu"> Inventory Log</span></h3>
+    <select id="itemName" @bind="@_YearSelected" class="form-select" style="width:8em; margin-left:265px;">
+        @foreach (var item in Years)
+        {
+            <option value="@item" selected>@item</option>
+        }
+    </select>
+    <select id="itemName" @bind="@_MonthSelected" class="form-select" style="width:8em;">
+        @foreach (var item in Months)
+        {
+            <option value="@item" selected>@item</option>
+        }
+    </select>
+    <button class="btn btn-success w-15" @onclick="LogIsShow">Get Log</button>
+</div>
+
+@if (_ShowLog)
+{
+    <table class="table">
+        <thead>
+            <tr style="background-color:dodgerblue; color:white">
+                <th>Item Name</th>
+                <th>Quantity</th>
+                <th>Approved By</th>
+                <th>Taken By</th>
+                <th>Date Taken Out</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var data in ShowDatas)
+            {
+                <tr style="background-color:lightseagreen">
+                    <td>@data.ItemName</td>
+                    <td>@data.Quantity</td>
+                    <td>@data.ApprovedBy</td>
+                    <td>@data.TakenBy</td>
+                    <td>@data.DateTakenOut.ToString("dddd, dd MMMM yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<hr />
+
+<nav class="navbar navbar-light bg-light justify-content-between">
+
+    <h1 class="navbar-brand mb-0 h1 oi oi-dashboard"> Dashboard</h1>
+    @if (!View_Graph) {
+        <button class="btn btn-primary" type="button" @onclick="ChartIsShow">
+            <span class="oi oi-bar-chart" /> Graph
+        </button>
+    }
+</nav>
+
+<div>
+    <canvas id="myChart"></canvas>
+</div>
+
+
+
+
+@code {
+    public bool View_Graph = false;
+    public bool _ShowLog = false;
+
+    public List<ItemModel> ItemsName = new List<ItemModel>();
+    public List<String> DisplayLabel = new List<String>();
+    public List<InventoryLogModel> Datas = new List<InventoryLogModel>();
+    public List<InventoryLogModel> ShowDatas = new List<InventoryLogModel>();
+
+    public List<int> Years = new List<int>();
+    public List<int> Months = new List<int>();
+    public List<int> DisplayData = new List<int>();
+    public int _MonthSelected = 12;
+    public int _YearSelected = 2022;
+
+    public async Task ChartIsShow() {
+        View_Graph = true;
+        await js.InvokeVoidAsync("BarGraph", DisplayData, DisplayLabel);
+    }
+
+    protected override void OnInitialized()
+    {
+        ItemsName = ItemServices.ReadItemData();
+        Datas = InventoryLogServices.ReadInventoryLogData();
+        foreach (var item in Datas)
+        {
+            if (DisplayLabel.Contains(item.ItemName))
+            {
+                int index = DisplayLabel.IndexOf(item.ItemName);
+                int prevCount = DisplayData[index];
+                int currentCount = prevCount + item.Quantity;
+                DisplayData.Insert(index, currentCount);
+
+            }
+            else
+            {
+                DisplayLabel.Add(item.ItemName);
+                DisplayData.Add(item.Quantity);
+                if (!Years.Contains(int.Parse(item.DateTakenOut.ToString("yyy"))))
+                {
+                    Years.Add(int.Parse(item.DateTakenOut.ToString("yyy")));
+                }
+                if (!Months.Contains(int.Parse(item.DateTakenOut.ToString("MM"))))
+                {
+                    Months.Add(int.Parse(item.DateTakenOut.ToString("MM")));
+                }
+            }
+        }
+        base.OnInitialized();
+    }
+
+    public void LogIsShow() {
+        _ShowLog = true;
+        ShowDatas = new List<InventoryLogModel>();
+        foreach (var item in Datas)
+        {
+            if ( _YearSelected == int.Parse(item.DateTakenOut.ToString("yyy")) && _MonthSelected == int.Parse(item.DateTakenOut.ToString("MM")) )
+            {
+                ShowDatas.Add(item);
+            }
+
+        }
+    }
+}

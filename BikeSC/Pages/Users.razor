@@ -1,0 +1,233 @@
+﻿@page "/users"
+
+
+<nav class="navbar navbar-light bg-light justify-content-between">
+    <h1 class="navbar-brand mb-0 h1; oi oi-people">  List of Users</h1>
+    <button class="btn btn-primary" type="button" @onclick="AddUserDialogOpen" style="background-color:black">
+        <span class="oi oi-plus" />
+    </button>
+</nav>
+
+
+<table class="table">
+    <thead>
+        <tr style="background-color:dodgerblue; color:white">
+            <th>Username</th>
+            <th>Role</th> 
+            <th>Created At</th>
+            <th>CreatedBy</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in _Users)
+        {
+            <tr style="background-color:lightseagreen">
+                <td>@user.Username</td>
+                <td>@user.Role.ToString()</td>
+                <td>@user.CreatedAt.ToString("MMM dd, yyyy h:mm tt")</td>
+                <td>
+                    @{
+                        var creator = UsersService.GetUserByGuid(user.CreatedBy);
+                        <span>@(creator == null ? "Unknown" : creator.Username)</span>
+                    }
+                </td>
+                <td>
+                    <button disabled="@(_GlobalState.CurrentUser != null ? _GlobalState.CurrentUser.Id == user.Id : false)"
+                    class="btn btn-outline-danger" type="button" @onclick="()=>DeleteUserDialogOpen(user)" style="background-color:orangered">
+                        <span class="oi oi-trash" style="color:white"/>
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+@if (_showDeleteUserDialog)
+{
+    <ModalDialog Title="Delete User" OnClose="@DeleteDialogClose" OkLabel="Confirm" OnOk="OnDeleteUserDialogClose">
+    <p>Are you sure you want to delete <strong>@_UserDelete.Username</strong> user and their data?</p>
+    @if (!string.IsNullOrEmpty(_deleteUserErrorMessage))
+        {
+            <AlertMessage Type="danger" Message="@_deleteUserErrorMessage" />
+        }
+    </ModalDialog>
+}
+
+
+@if (_showAddUserDialog)
+{
+    <ModalDialog Title="Add User" OnClose="@ItemCloseDialog" OkLabel="Add" OnOk="OnAddUserDialogClose">
+        <form>
+            <div class="form-floating">
+                <input type="text" class="form-control username" @bind="_UserName" placeholder="Username" />
+                <label for="floatingInput">Username</label>
+            </div>
+            <div class="form-floating mb-3">
+                <input type="password" class="form-control password" @bind="_Password" placeholder="Password" />
+                <label for="floatingPassword">Password</label>
+            </div>
+            <div class="form-check">
+                <input id="userRole" type="radio" class="form-check-input" name="role" value="@Role.User"
+                   @onchange="RoleChangeHandler" checked="@(_Role == Role.User)">
+                <label class="form-check-label" for="userRole">@Role.User</label>
+            </div>
+            <div class="form-check">
+                <input id="adminRole" type="radio" class="form-check-input" name="role" value="@Role.Admin"
+                   @onchange="RoleChangeHandler" checked="@(_Role == Role.Admin)">
+                <label class="form-check-label" for="adminRole">@Role.Admin</label>
+            </div>
+            @if (!string.IsNullOrEmpty(_addUserErrorMessage))
+            {
+                <AlertMessage Type="danger" Message="@_addUserErrorMessage" />
+            }
+        </form>
+    </ModalDialog>
+}
+
+
+@code {
+    [CascadingParameter]
+    private GlobalState _GlobalState { get; set; }
+
+    private bool _showAddUserDialog { get; set; }
+    private bool _showDeleteUserDialog { get; set; }
+
+    private string _addUserErrorMessage { get; set; }
+    private string _deleteUserErrorMessage { get; set; }
+    private string _UserName { get; set; }
+    private string _Password { get; set; }
+
+    private User _UserDelete { get; set; }
+    private List<User> _Users { get; set; }
+    private Role _Role { get; set; }
+
+
+    protected override void OnInitialized()
+    {
+        _Users = UsersService.GetAllUser();
+    }
+
+    protected void ItemCloseDialog()
+    {
+        _showAddUserDialog = false;
+    }
+
+    protected void AddUserDialogOpen()
+    {
+        _showAddUserDialog = true;
+        _UserName = "";
+        _Password = "";
+        _Role = Role.User;
+        _addUserErrorMessage = "";
+    }
+
+
+    protected void DeleteDialogClose()
+    {
+        _showDeleteUserDialog = false;
+    }
+
+    protected void OnAddUserDialogClose(bool isCancel)
+    {
+        if (isCancel)
+        {
+
+            _showAddUserDialog = false;
+        }
+        else
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(_UserName))
+                {
+                    throw new Exception("Please enter user name");
+                }
+                else if (_UserName.Length < 4)
+                {
+                    throw new Exception("User name must be greater then 4 character");
+                }
+
+                if (string.IsNullOrEmpty(_Password))
+                {
+                    throw new Exception("Please enter password");
+                }
+                else if (_Password.Length < 4)
+                {
+                    throw new Exception("password must be greater then 4 character");
+                }
+
+
+                int count = 0;
+                foreach (var user in UsersService.GetAllUser())
+                {
+                    if (user.Role.Equals(Role.Admin))
+                    {
+                        count++;
+                    }
+                }
+                if (count >= 2)
+                {
+                    if (_Role == Role.User)
+                    {
+                        _Users = UsersService.CreateUser(_GlobalState.CurrentUser.Id, _UserName, _Password, _Role);
+                        _showAddUserDialog = false;
+                    }
+                    else
+                    {
+                        _addUserErrorMessage = "Sorry Cannot add more Admins!!!";
+                    }
+                }
+
+                else
+                {
+                    _addUserErrorMessage = "";
+                    _Users = UsersService.CreateUser(_GlobalState.CurrentUser.Id, _UserName, _Password, _Role);
+                    _showAddUserDialog = false;
+                }
+
+            }
+            catch (Exception e)
+            {
+                _addUserErrorMessage = e.Message;
+            }
+        }
+    }
+
+    protected void RoleChangeHandler(ChangeEventArgs e)
+    {
+        _Role = (Role)Enum.Parse(typeof(Role), e.Value.ToString());
+    }
+
+    protected void OnDeleteUserDialogClose(bool isCancel)
+    {
+        if (isCancel)
+        {
+            _showDeleteUserDialog = false;
+            _UserDelete = null;
+        }
+        else
+        {
+            try
+            {
+                _deleteUserErrorMessage = "";
+                _Users = UsersService.Delete(_UserDelete.Id);
+                _showDeleteUserDialog = false;
+                _UserDelete = null;
+            }
+            catch (Exception e)
+            {
+                _deleteUserErrorMessage = e.Message;
+            }
+        }
+    }
+
+    protected void DeleteUserDialogOpen(User user)
+    {
+        _UserDelete = user;
+        _showDeleteUserDialog = true;
+    }
+}

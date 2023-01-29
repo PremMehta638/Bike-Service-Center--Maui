@@ -1,0 +1,7 @@
+.divider[b-dzmq7yykdm]:after,
+.divider[b-dzmq7yykdm]:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}

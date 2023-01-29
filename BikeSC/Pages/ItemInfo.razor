@@ -1,0 +1,235 @@
+﻿
+@page "/iteminfo";
+@inject NavigationManager navigationManager;
+
+
+<nav class="navbar navbar-light bg-light justify-content-between">
+    <h1 class="navbar-brand mb-0 h1; oi oi-spreadsheet">  List of Items</h1>
+    <button class="btn btn-primary" type="button" @onclick="AddItemDialogOpen" style="background-color:#404040">
+        <span class="oi oi-plus" /> 
+    </button>
+</nav>
+
+<table class="table">
+    <thead>
+        <tr style="background-color:dodgerblue; color:white">
+            <th>Item Name</th>
+            <th>Quantity</th>
+            <th>Update</th>
+            <th>Delete</th>
+            <th>Last Taken Out</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in items)
+        {
+            <tr style="background-color:lightseagreen">
+                <td>@item.ItemName</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <button class="btn btn-outline-secondary" @onclick="@((e) => ItemEdit(item) )" type="button" style="background-color:forestgreen">
+                        <span class="oi oi-pencil" style="color:white" /> 
+                    </button> 
+                </td>
+                <td>
+                    <button class="btn btn-outline-danger" @onclick="((e) => ItemDelete(item) )" type="button" style="background-color:orangered">
+                        <span class="oi oi-trash" style="color:white" />
+                    </button>
+                </td>
+                <td>@item.LastTakenOut</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@if (_showEditItemDialgo) {
+    <ModalDialog Title="@_dialogTttle" OnClose="ItemDialogClose" OkLabel="@_dialogOkLabel" OnOk="AddItem">
+        <form>
+            <div class="form-floating">
+                <input type="text" class="form-control username" @bind-value="@_itemModel.ItemName" placeholder="Item Name" />
+                <label for="floatingInput">Item Name</label>
+            </div>
+            <br />
+            <div class="form-floating mb-3">
+                <input type="number" class="form-control" @bind-value="@_itemModel.Quantity" placeholder="Item Quantity" />
+                <label for="floatingPassword">Quantity</label>
+            </div>
+
+            @if (!string.IsNullOrEmpty(_addItemErrorMessage))
+            {
+                <AlertMessage Type="danger" Message="@_addItemErrorMessage" />
+            }
+        </form>
+    </ModalDialog>
+}
+
+@if (_showDeleteUserDialog)
+{
+    <ModalDialog Title="Delete Item" OnClose="DeleteDialogClose" OkLabel="Confirm" OnOk="@((e) => ConfirmDelete(_itemModel))">
+        <p>Are you sure you want to delete <strong>@_itemModel.ItemName</strong> data?</p>
+        @if (!string.IsNullOrEmpty(_deleteUserErrorMessage))
+        {
+            <AlertMessage Type="danger" Message="@_deleteUserErrorMessage" />
+        }
+    </ModalDialog>
+}
+
+
+@code {
+
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    private bool _showEditItemDialgo = false;
+    private bool _showDeleteUserDialog { get; set; } = false;
+
+    private List<ItemModel> items = new List<ItemModel>();
+
+    private String _dialogTttle = "Add New Item";
+    private String _dialogOkLabel = "Add";
+    private String _editItemErrorMessage = "";
+    private String _addItemErrorMessage = "";
+    private String _ItemName { get; set; }
+    private String _deleteUserErrorMessage { get; set; }
+
+    private ItemModel _itemModel { get; set; }
+
+    private int _Quantity { get; set; }
+
+    public void ItemDialogClose()
+    {
+        _showEditItemDialgo = false;
+    }
+
+    public void DeleteDialogClose()
+    {
+        _showDeleteUserDialog = false;
+    }
+
+
+    public void AddItemDialogOpen()
+    {
+        _dialogTttle = "Add New Item";
+        _dialogOkLabel = "Add";
+        _itemModel = new ItemModel();
+        _itemModel.Id = Guid.Empty;
+        _showEditItemDialgo = true;
+    }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        items = ItemServices.ReadItemData();
+    }
+
+
+
+    public void AddItem() {
+
+
+        _showEditItemDialgo = false;
+        try
+        {
+            _editItemErrorMessage = "";
+
+            if (_itemModel.ItemName == null)
+            {
+                throw new Exception("Please Enter Item Name");
+            }
+            else if (_itemModel.ItemName.Length < 3)
+            {
+                throw new Exception("Item Name must be greater then 3 character");
+            }
+
+            if (_itemModel.Quantity <= 0)
+            {
+                throw new Exception("Quantity must be greater then zero");
+            }
+
+            if (_itemModel.Quantity >= 5000)
+            {
+                throw new Exception("Quantity is too large");
+            }
+
+            if (_itemModel.Id == Guid.Empty)
+            {
+
+                bool isExist = false;
+                Guid existGuid = Guid.Empty;
+                int _itemQuantity = 0;
+                foreach (var item in ItemServices.ReadItemData())
+                {
+                    if (item.ItemName.Equals(_itemModel.ItemName))
+                    {
+                        isExist = true;
+                        existGuid = item.Id;
+                        _itemQuantity = item.Quantity;
+                    }
+                }
+
+                if (isExist)
+                {
+
+                    items = ItemServices.UpdateItemData(
+                        existGuid,
+                        _itemModel.ItemName,
+                        _itemModel.Quantity + _itemQuantity,
+                        DateTime.Now
+                    );
+                }
+                else
+                {
+                    items = ItemServices.CreateNewItem(
+                        Guid.NewGuid(),
+                        _itemModel.ItemName,
+                        _itemModel.Quantity,
+                        DateTime.Now,
+                        _globalState.CurrentUser
+                    );
+                }
+                _showEditItemDialgo = false;
+            }
+            else
+            {
+                items = ItemServices.UpdateItemData(_itemModel.Id, _itemModel.ItemName, _itemModel.Quantity);
+                _showEditItemDialgo = false;
+            }
+        }
+        catch (Exception e)
+        {
+            _showEditItemDialgo = true;
+            _editItemErrorMessage = e.Message;
+            _addItemErrorMessage = e.Message;
+        }
+    }
+
+    public void ItemEdit(ItemModel editedItemMode) {
+        _dialogTttle = "Edit Item";
+        _dialogOkLabel = "Update";
+        _itemModel = editedItemMode;
+        _showEditItemDialgo = true;
+    }
+
+    public void ConfirmDelete(ItemModel deleteItemModel)
+    {
+        try
+        {
+            _deleteUserErrorMessage = "";
+            items = ItemServices.DeleteItemData(_itemModel.Id);
+            _showDeleteUserDialog = false;
+            _itemModel = null;
+        }
+        catch (Exception e)
+        {
+            _deleteUserErrorMessage = e.Message;
+        }
+    }
+
+        public void ItemDelete(ItemModel deleteItemModel) {
+        _deleteUserErrorMessage = "Are you sure you want to delete?";
+        _itemModel = deleteItemModel;
+        _showDeleteUserDialog = true;        
+    }
+}

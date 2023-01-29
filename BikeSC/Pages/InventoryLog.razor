@@ -1,0 +1,303 @@
+﻿@page "/inventorylog"
+
+<nav class="navbar navbar-light bg-light justify-content-between">
+    <h1 class="navbar-brand mb-0 h1; oi oi-menu">  Inventory Log</h1>
+
+    <div class="d-flex gap-2">
+        <select id="itemName" @bind="_selectedKey" class="form-select" style="width:10em;">
+            <option value="Item Name" selected>ItemName</option>
+            <option value="Quantity">Quantity</option>
+            <option value="Taken By">Taken By</option>
+            <option value="Date Taken out">Date Taken Out</option>
+        </select>
+        <button class="btn btn-primary" @onclick=" Sort"><span class="oi oi-sort-ascending" /></button>
+    </div>
+
+    <button class="btn btn-primary" @onclick="OpenItemTakenOut" type="button" style="background-color:#404040">
+        <span class="oi oi-plus" /> Take Item Out
+    </button>
+</nav>
+
+@if (_EditItemDialogShow)
+{
+    <ModalDialog Title="@_TitleDialog" OkLabel="@_OkLabelDialog" OnClose="ItemDialogClose" OnOk="OnInventoryLogAdded">
+        <form>
+            <div class="mb-3">
+                <select id="itemName" @bind="@_ItemGuidSelected" class="form-select">
+                    @foreach (var item in items)
+                    {
+                        <option value="@item.Id" selected>@item.ItemName</option>
+                    }
+                </select>
+            </div>
+
+            <br />  
+
+            <div class="form-floating mb-3">
+                <input type="number" class="form-control" @bind-value="@_LogModelInventory.Quantity" placeholder="Item Quantity" />
+                <label for="floatingPassword">Quantity</label>
+            </div>   
+            
+            <br />
+
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" @bind-value="@_LogModelInventory.TakenBy" placeholder="Taken By" />
+                <label for="floatingPassword">Taken By</label>
+            </div>
+        </form>
+    </ModalDialog>
+}
+
+
+@if (_DeleteUserDialogShow)
+{
+    <ModalDialog Title="Quantity out of Stock" OnClose="DeleteDialogClose" OkLabel="Confirm" OnOk="DeleteDialogClose">
+        <p>Item is out of stock. Please come later</p>
+        @if (!string.IsNullOrEmpty(_UserErrorMessageShow))
+        {
+            <AlertMessage Type="danger" Message="@_UserErrorMessageShow" />
+        }
+    </ModalDialog>
+}
+
+@if (_showTimeError)
+{
+    <ModalDialog Title="Cannot take item out today" OnClose="DeleteDialogClose" OkLabel="Confirm" OnOk="DeleteDialogClose">
+        <p>Please come between Monday and Friday at 9 AM and 4 PM</p>
+        @if (!string.IsNullOrEmpty(_showTimeErrorMessage))
+        {
+            <AlertMessage Type="danger" Message="@_showTimeErrorMessage" />
+        }
+    </ModalDialog>
+}
+
+@if (_emptyError)
+{
+    <ModalDialog Title="Invalid Form" OnClose="DeleteDialogClose" OkLabel="Confirm" OnOk="DeleteDialogClose">
+        <p>Please Fill Valid Form</p>
+        @if (!string.IsNullOrEmpty(_emptyErrorMessage))
+        {
+            <AlertMessage Type="danger" Message="@_emptyErrorMessage" />
+        }
+    </ModalDialog>
+}
+<br />
+<table class="table">
+    <thead>
+        <tr style="background-color:dodgerblue; color:white">
+            <th>Item Name</th>
+            <th>Quantity</th>
+            <th>Approved By</th>
+            <th>Taken By</th>
+            <th>Date Taken Out</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var data in datas)
+        {
+            <tr style="background-color:lightseagreen" >
+                <td>@data.ItemName</td>
+                <td>@data.Quantity</td>
+                <td>@data.ApprovedBy</td>
+                <td>@data.TakenBy</td>
+                <td>@data.DateTakenOut</td>
+            </tr>
+        }
+    </tbody>
+</table>
+    
+
+@code {
+    [CascadingParameter]
+    private GlobalState _GlobalState { get; set; }
+
+    private String _TitleDialog = "Add New Item";
+    private String _OkLabelDialog = "Add";
+    private String _ItemMessageErrorEdit = "";
+    private string _emptyErrorMessage = "";
+    private String _UserErrorMessageShow { get; set; }
+    private string _showTimeErrorMessage = "";
+    private String _selectedKey = "";
+
+    private bool _EditItemDialogShow = false;
+    private bool _DeleteUserDialogShow { get; set; } = false;
+    private bool _showTimeError = false;
+    private bool _emptyError= false;
+
+    private List<ItemModel> items = new List<ItemModel>();
+    private List<InventoryLogModel> datas = new List<InventoryLogModel>();  
+
+    private InventoryLogModel _LogModelInventory { get; set; }
+
+    private Guid _ItemGuidSelected = Guid.Empty;
+
+    DayOfWeek week = DateTime.Today.DayOfWeek;
+
+    List<String> availableWeeks = new List<String> {
+        "Sunday" ,"Monday", "Tuesday", "Wednesday", "Thursday", "Friday",
+    };
+    TimeSpan a = new TimeSpan(09, 0, 0);
+    TimeSpan b = new TimeSpan(16, 0, 0);
+    TimeSpan c = DateTime.Now.TimeOfDay;
+
+    string currentTime = DateTime.Now.ToString("hh:mm tt");
+
+
+    public void OpenItemTakenOut() {
+        _TitleDialog = "Take Item Out";
+        _OkLabelDialog = "Take Out";
+        _LogModelInventory = new InventoryLogModel();
+        _LogModelInventory.Id = Guid.Empty;
+        _EditItemDialogShow = true;
+    }
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        items = ItemServices.ReadItemData();
+        datas = InventoryLogServices.ReadInventoryLogData();
+    }
+    public void ItemDialogClose()
+    {
+        _EditItemDialogShow = false;
+    }
+
+    public void DeleteDialogClose() {
+        _DeleteUserDialogShow = false;
+        _showTimeError = false;
+        _emptyError = false;
+    }
+
+
+
+    public void OnInventoryLogAdded() {
+        ItemModel item = items.FirstOrDefault(x => x.Id == _ItemGuidSelected);
+        try
+        {
+            if (_ItemGuidSelected == Guid.Empty)
+            {
+                throw new Exception("Please Enter Item Name");
+            }
+
+            if (_LogModelInventory.Quantity <= 0)
+            {
+                throw new Exception("Quantity must be greater then zero");
+            }
+
+            if (_LogModelInventory.Quantity >= 1000)
+            {
+                throw new Exception("Quantity is too large");
+            }
+
+            if (_LogModelInventory.TakenBy == null)
+            {
+                throw new Exception("Please Enter user name who bought this item");
+            }
+            else if (_LogModelInventory.TakenBy.Length < 3)
+            {
+                throw new Exception("Item taken user name must be greater then 3 character");
+            }
+
+            if (_LogModelInventory.Quantity > item.Quantity)
+            {
+                _EditItemDialogShow = false;
+                _DeleteUserDialogShow = true;
+            }
+            if (_LogModelInventory.Quantity > item.Quantity)
+            {
+                _EditItemDialogShow = false;
+                _DeleteUserDialogShow = true;
+            }
+            else
+            {
+                if (availableWeeks.Contains(week.ToString()) && c > a && c < b)
+                {
+                    datas = InventoryLogServices.WriteInventoryLogData(Guid.NewGuid(), item.ItemName, _LogModelInventory.Quantity, _GlobalState.CurrentUser.Username, _LogModelInventory.TakenBy, DateTime.Now);
+                    items = ItemServices.UpdateItemData(item.Id, item.ItemName, item.Quantity - _LogModelInventory.Quantity, DateTime.Now);
+                    _DeleteUserDialogShow = false;
+                    _EditItemDialogShow = false;
+
+                }
+                else
+                {
+                    _showTimeErrorMessage = "Time out. Please come later";
+                    _EditItemDialogShow = false;
+                    _showTimeError = true;
+                }
+            }
+
+        }
+            catch (Exception e)
+            {
+                _emptyErrorMessage = e.Message;
+                _EditItemDialogShow = false;
+                _showTimeError = true;
+                _emptyError = true;
+        }
+
+        }
+
+
+
+    public void Sort()
+    {
+        if (_selectedKey.Equals("Item Name"))
+        {
+            BubbleSortByItemName(datas);
+        }
+        else if (_selectedKey.Equals("Quantity"))
+        {
+            BubbleSortByQuantity(datas);
+        }
+        else if (_selectedKey.Equals("Taken By"))
+        {
+            BubbleSortByTakenBy(datas);
+        }
+        else if (_selectedKey.Equals("Date Taken out"))
+        {
+            datas.Reverse();
+        }
+    }
+
+
+        public void BubbleSortByItemName(List<InventoryLogModel> datas) {
+        for (int i = 0; i < datas.Count - 1; i++) {
+            for (int j = 0; j < datas.Count - i - 1; j++) {
+                if (datas[j].ItemName.CompareTo(datas[j + 1].ItemName) == 1) {
+                    InventoryLogModel temp = datas[j];
+                    datas[j] = datas[j + 1];
+                    datas[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    public void BubbleSortByTakenBy(List<InventoryLogModel> datas)
+    {
+        for (int i = 0; i < datas.Count - 1; i++)
+        {
+            for (int j = 0; j < datas.Count - i - 1; j++)
+            {
+                if (datas[j].TakenBy.CompareTo(datas[j + 1].TakenBy) == 1)
+                {
+                    InventoryLogModel temp = datas[j];
+                    datas[j] = datas[j + 1];
+                    datas[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+
+    public void BubbleSortByQuantity(List<InventoryLogModel> datas) {
+        for (int i = 0; i < datas.Count - 1; i++) {
+            for (int j = 0; j < datas.Count - i - 1; j++) {
+                if (datas[j].Quantity > datas[j + 1].Quantity) {
+                    InventoryLogModel temp = datas[j];
+                    datas[j] = datas[j + 1];
+                    datas[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+}

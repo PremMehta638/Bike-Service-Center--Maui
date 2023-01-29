@@ -1,0 +1,1544 @@
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.exe
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.deps.json
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.runtimeconfig.json
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\AD\BikeSC\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.AssemblyReference.cache
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.BikeSC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.BikeSC.props
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.BikeSC.props
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.BikeSC.props
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\ChangePassword.razor.rz.scp.css
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Login.razor.rz.scp.css
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BikeSC.styles.css
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BikeSC.bundle.scp.css
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.GeneratedMSBuildEditorConfig.editorconfig
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfoInputs.cache
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfo.cs
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CoreCompileInputs.cache
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CopyComplete
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\BikeSC.dll
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.genruntimeconfig.cache
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\BikeSC.dll
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\AD\BikeSC\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.exe
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.deps.json
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.runtimeconfig.json
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.822.36306.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\ChangePassword.razor.rz.scp.css
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Login.razor.rz.scp.css
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BikeSC.styles.css
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BikeSC.bundle.scp.css
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CopyComplete
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\BikeSC.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\BikeSC.dll
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DELL\Downloads\Login and Student\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.exe
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.deps.json
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.runtimeconfig.json
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.822.36306.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\ChangePassword.razor.rz.scp.css
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Login.razor.rz.scp.css
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BikeSC.styles.css
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BikeSC.bundle.scp.css
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CopyComplete
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\BikeSC.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.genruntimeconfig.cache
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\BikeSC.dll
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DELL\Desktop\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.exe
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.deps.json
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.runtimeconfig.json
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.AssemblyReference.cache
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.BikeSC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.BikeSC.props
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.BikeSC.props
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.BikeSC.props
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\ChangePassword.razor.rz.scp.css
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Login.razor.rz.scp.css
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BikeSC.styles.css
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BikeSC.bundle.scp.css
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfoInputs.cache
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.AssemblyInfo.cs
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CoreCompileInputs.cache
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.csproj.CopyComplete
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\BikeSC.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.pdb
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BikeSC.genruntimeconfig.cache
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\BikeSC.dll
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+E:\Final year\Application Development\Cw\BikeSC-master\BikeSC\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

@@ -1,0 +1,104 @@
+﻿
+@page "/login"
+@inject NavigationManager NavManager
+
+
+
+<style>
+    .apple {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+</style>
+
+<div class="login-body">
+
+
+    @if (!string.IsNullOrEmpty(_ErrorMessage))  
+    {
+        <div class="apple alert gap-4 alert-danger" role="alert">
+            @_ErrorMessage &nbsp;&nbsp; <i @onclick = "@(() => _ErrorMessage = "" )" class="fa fa-times" aria-hidden="true"></i>
+        </div>
+    }
+
+
+    <section class="vh-100">
+        <div class="container py-5 h-100">
+            <div class="row d-flex align-items-center justify-content-center h-100">
+                <div class="col-md-8 col-lg-7 col-xl-6">
+                    <img src="./image/bike.png"
+                         class="img-fluid" alt="Phone image">
+                </div>
+                <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
+                    <h1 style="font-weight: 900; font-family: Dubai; font-size: 56px;">Welcome Back!</h1>
+                    <p style="color: dimgrey; font-family: Dubai">Login to continue</p>
+                    <form @onsubmit="LoginHandler">
+                        <!-- Email input -->
+                        <div class="form-outline mb-4">
+                            <label style="font-size: 16px; font-family: 'Poor Richard'" class="form-label" for="form1Example13">UserName</label>
+                            <input type="text" @bind-value="_UserName" id="form1Example13" class="form-control form-control-lg" style="font-size:medium;" placeholder="Enter Your UserName"/>
+                        </div>
+
+                        <!-- Password input -->
+                        <div class="form-outline mb-4">
+                            <label style="font-size: 16px; font-family: 'Poor Richard'" class="form-label" for="form1Example23">Password</label>
+                            <input type="password" @bind-value="_Password" id="form1Example23" class="form-control form-control-lg" style="font-size:medium;" placeholder="Password" />
+                        </div>
+
+                        <!-- Submit button -->
+                        <button @onclick="LoginHandler" type="submit" class="btn btn-primary btn-lg btn-block">
+                            <span class=" oi oi-account-login"/> LOGIN </button>
+
+                    </form>
+                </div>
+            </div>  
+        </div>
+    </section>
+</div>
+
+
+
+@code {
+
+    [CascadingParameter]
+    private GlobalState _GlobalState { get; set; }
+
+    private string _UserName { get; set; }
+    private string _Password { get; set; }
+    private string _ErrorMessage = "";
+
+    private bool _showDefaultCredentials { get; set; }
+
+
+    private void LoginHandler()
+    {
+        try
+        {
+            _ErrorMessage = "";
+            _GlobalState.CurrentUser = UsersService.UserLogin(_UserName, _Password);
+            if (_GlobalState.CurrentUser != null)
+            {
+                NavManager.NavigateTo(_GlobalState.CurrentUser.HasInitialPassword ? "/change-password" : "/");
+            }
+        }
+        catch (Exception e)
+        {
+            _ErrorMessage = e.Message;
+            Console.WriteLine(e);
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        try
+        {
+            var user = UsersService.UserLogin(UsersService.SeedUsername, UsersService.SeedPassword);
+            _showDefaultCredentials = user.HasInitialPassword;
+        }
+        catch { }
+
+        _GlobalState.CurrentUser = null;
+        _ErrorMessage = "";
+    }
+}

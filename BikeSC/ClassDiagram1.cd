@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BikeSC.Data.GlobalState">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\GlobalState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.InventoryLogModel">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAGAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAIAAAA=</HashCode>
+      <FileName>Data\InventoryLogModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.InventoryLogServices">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAEQIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\InventoryLogServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.ItemModel">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAACAAAAAAAACAAAAAAAAAgAAAAAE=</HashCode>
+      <FileName>Data\ItemModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.ItemServices">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAgAAAAAACAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ItemServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.User">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAESAAAEAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Data\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.UsersService">
+    <Position X="0.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAQgIAAAAAAAAAAAAAIEQAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>Data\UsersService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSC.Data.Utils">
+    <Position X="6" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAAgAAAEAAAAAAEAAIAAAAg=</HashCode>
+      <FileName>Data\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BikeSC.Data.Role">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Role.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
